@@ -9,7 +9,7 @@ const Author = () => {
   return (
     <div className={styles['author']}>
       <p className={styles['author__bio']}>
-        <span role="img" aria-label="heart">{'Written with ❤️ by Deva K.'}<span>
+        <span role="img" aria-label="heart">{'Written with ❤️ by Deva K.'}</span>
       </p>
     </div>
   );
