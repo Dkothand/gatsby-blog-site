@@ -29,7 +29,7 @@ module.exports = {
     photo: '/deva.png',
     bio: 'Self-taught programmer turned professional bug creator',
     contacts: {
-      // to add contacts to side bar add to graphQL query in use-site-metadata.js 
+      // to add contacts to side bar add to graphQL query in use-site-metadata.js
       github: 'Dkothand',
       linkedin: 'devakothandapany/',
     }
